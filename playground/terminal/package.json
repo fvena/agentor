@@ -1,0 +1,14 @@
+{
+  "name": "playground",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch --clear-screen=false src/index.ts"
+  },
+  "dependencies": {
+    "@franvena/consoleui": "*"
+  },
+  "devDependencies": {
+    "tsx": "^4.6.2"
+  }
+}
