@@ -6,7 +6,7 @@
     "dev": "vite"
   },
   "dependencies": {
-    "@franvena/consoleui": "*"
+    "agentor": "workspace:*"
   },
   "devDependencies": {
     "vite": "^6.3.1"

@@ -1,4 +1,4 @@
-import { add } from "@franvena/consoleui";
+import { add } from "agentor";
 
 const number1 = document.querySelector("#num1");
 const number2 = document.querySelector("#num2");
