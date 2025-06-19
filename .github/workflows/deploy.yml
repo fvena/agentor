@@ -1,8 +1,11 @@
 name: Deploy
 
 on:
-  release:
-    types: [published]
+  workflow_run:
+    workflows:
+      - CI/CD
+    types:
+      - completed
 
 permissions:
   contents: read

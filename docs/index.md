@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Agentor"
+  text: "AI Agents for Software Development"
+  tagline: Agentor is an intelligent assistant powered by AI agents that act as your Product Owner, Architect, and Technical Writer—all in one. It guides you through every stage of software development, from idea to maintenance.
   actions:
     - theme: brand
       text: Markdown Examples

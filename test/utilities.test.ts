@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { add } from "../../src/utilities";
+import { add } from "../src/utilities";
 
 describe("Add function in browser environment", () => {
   // Verificamos que estamos en un entorno tipo navegador (jsdom)

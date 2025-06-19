@@ -2,8 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/your-repository-name/",
-  description: "A VitePress Site",
+  base: "/agentor/",
+  description:
+    "Agentor is an intelligent assistant powered by AI agents that act as your Product Owner, Architect, and Technical Writer—all in one. It guides you through every stage of software development, from idea to maintenance.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -23,5 +24,5 @@ export default defineConfig({
 
     socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
   },
-  title: "My Awesome Project",
+  title: "Agentor",
 });
